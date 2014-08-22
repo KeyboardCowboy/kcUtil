@@ -1,0 +1,5 @@
+kcUtil.js, v1.0.0
+--------------------------------------------------------------------------------
+- Added getQueryParam() function.
+- Added jQuery .exists() method.
+- Added jQuery .setPos() method.
